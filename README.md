@@ -3,7 +3,7 @@
 A web scraper is used to extract data from websites which can further be used to perform analysis.
 This python script is ot be used specifically for extracting data from Amazon.in
 
-PS: the price of the product is in INR
+PS: price of the products are in INR
 
 Follow the steps to generate a dataset of your own:
 1. Initialize search_term to whatever term you are using to scrape the data.
